@@ -1,1 +1,1 @@
-harbor-db:v2.10.0
+goharbor/harbor-db:v2.10.0
