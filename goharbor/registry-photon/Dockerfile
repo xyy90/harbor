@@ -1,1 +1,1 @@
-registry-photon:v2.10.0
+goharbor/registry-photon:v2.10.0
