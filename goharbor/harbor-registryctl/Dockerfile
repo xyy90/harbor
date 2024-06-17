@@ -1,1 +1,1 @@
-harbor-registryctl:v2.10.0
+goharbor/harbor-registryctl:v2.10.0
