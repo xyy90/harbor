@@ -1,1 +1,2 @@
-goharbor/registry-photon:v2.10.0
+FROM goharbor/registry-photon:v2.10.0
+MAINTAINER Q
