@@ -1,1 +1,2 @@
-goharbor/harbor-db:v2.10.0
+FROM goharbor/harbor-db:v2.10.0
+MAINTAINER Q
