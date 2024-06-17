@@ -1,0 +1,1 @@
+goharbor/harbor-core:v2.10.0
