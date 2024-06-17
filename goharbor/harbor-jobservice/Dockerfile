@@ -1,1 +1,2 @@
-goharbor/harbor-jobservice:v2.10.0
+FROM goharbor/harbor-jobservice:v2.10.0
+MAINTAINER Q
